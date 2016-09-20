@@ -2,4 +2,4 @@ A. The sound is to the top left.
 B. The sound hits C first, so the sound is above it. The sound then hits B, so the sound is to the left.
 C. A hyperbola!
 D. (-3.5, 4)
-E. Given three time values is pretty trivial because then you know the distance from the sound to the first hydrophone. In reality, we're only given two time differences, which is a lot harder, and I could not figure out how to find the intersection of two general hyperbolas.
+E. Given two time differences, we have two hyperbolas. To find where they intersect, use Newton's method. First find an estimate using the asymptotes, then improve the estimate.
